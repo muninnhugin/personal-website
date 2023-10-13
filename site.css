@@ -1,6 +1,14 @@
-#pfp {
-    max-height: 400px;
-    max-width: 300px;
-    width: auto;
+body {
+    background-color: #236167;
+}
+
+.navbar {
+    background-color: #236167;
+    color: white;
+}
+
+.nav-elem a:any-link {
+    text-decoration: none;
+    color: white;
 }
 
