@@ -1,0 +1,17 @@
+.contacts-container {
+    background-color: #0D4D4D;
+}
+
+.contacts-card {
+   padding: 10px;
+}
+
+.contacts-card p {
+    margin-bottom: 0;
+}
+
+.contacts-img {
+    max-width: 52px;
+    height: auto;
+    background-color: #669999;
+}
