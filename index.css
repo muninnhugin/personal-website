@@ -2,5 +2,12 @@
     max-height: 400px;
     max-width: 300px;
     width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#pfp_container {
+    background-color: #0D4D4D;
+    margin-top: 0;
 }
 
