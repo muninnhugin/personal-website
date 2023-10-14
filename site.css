@@ -1,10 +1,18 @@
 body {
-    background-color: #236167;
+    background-color: #226666;
+    color: aliceblue;
+}
+
+div {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .navbar {
-    background-color: #236167;
+    background-color: #003333;
     color: white;
+    margin-bottom: 0;
+    margin-top: 0;
 }
 
 .nav-elem a:any-link {

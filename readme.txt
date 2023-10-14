@@ -38,7 +38,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+https://www.codexworld.com/embed-pdf-document-file-in-html-web-page/
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
