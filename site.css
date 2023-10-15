@@ -3,6 +3,11 @@ body {
     color: aliceblue;
 }
 
+.text-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .navbar {
     background-color: #003333;
     color: white;
@@ -12,4 +17,5 @@ body {
     text-decoration: none;
     color: white;
 }
+
 
