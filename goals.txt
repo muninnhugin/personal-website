@@ -1,3 +1,2 @@
 Goals
-add resume page with embedded and downloadable pdf
 create JS function to generate navbar
