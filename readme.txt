@@ -23,22 +23,24 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (a) Basic features
 Images with alt text: 1 in index.html, 2 in contacts.html
-Links to external pages: 2 in contacts.html
-Multiple pages: 3 pages in website: index, resume, and contacts
+Appropriate heading and paragraph text: projects.html
+Links to external pages: 2 in contacts.html, 2 in projects.html
+Multiple pages: 4 pages in website: index, resume, projects, and contacts
 Logo icons downloaded from GitHub and LinkedIn websites: contacts.html
 
 (b) CSS features
-Use of margin and padding: contacts.css, index.css, site.css
+Use of margin and padding: contacts.css, index.css, site.css, projects.css
 Use Palleton theme as website colors
-Use Bootstrap to design page layout: index.html, contacts.html
+Use Bootstrap to design page layout: index.html, contacts.html, projects.css
 
 (c) Advanced features
 Navigation bar for website
 Embedded and downloadable pdf: resume.html
+Embedded YouTube video (can't find fallback options for iframe tag): projects.html
 Nested CSS selector: site.css
 
 3. How long, in hours, did it take you to complete this assignment?
-6 hours
+10 hours
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 W3 Schools HTML: https://www.w3schools.com/html/default.asp
