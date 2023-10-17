@@ -12,7 +12,6 @@
           integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
           crossorigin="anonymous">
     <link rel="stylesheet" href="site.css">
-    <link rel="stylesheet" href="resume.css">
 
     <title>Ha Bach's Resume</title>
 </head>
@@ -27,9 +26,11 @@
     <form method="get" action="files/resume.pdf">
         <button type="submit" class="btn btn-outline-light">Download PDF</button>
     </form>
-    <object class="pdf-embed" data="files/resume.pdf" type="application/pdf">
-        <p>Ha Bach's resume. Can be downloaded using the download button.</p>
-    </object>
+    <div class="embed-responsive embed-responsive-4by3">
+        <object class="embed-responsive-item" data="files/resume.pdf" type="application/pdf">
+            <p>Ha Bach's resume. Can be downloaded using the download button.</p>
+        </object>
+    </div>
 </div>
 
 </body>
