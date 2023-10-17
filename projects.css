@@ -3,9 +3,11 @@
 }
 
 .project-container {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: solid #003333 10px;
 }
+
 .project-video {
     min-width: 200px;
 }
